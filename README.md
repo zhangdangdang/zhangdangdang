@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhangdangdang
 - 👀 I’m interested in c++
-- 🌱 I’m currently learning c++ and network programming
+- 🌱 I’m currently learning HEVC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ：1600250625@qq.com
 
